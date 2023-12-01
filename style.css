@@ -1,10 +1,12 @@
 h1{
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
     color: aqua;
     background-color: black;
 }
 
 p{
-    
+    font-size:40px ;
+    text-align: center;
+
 }
